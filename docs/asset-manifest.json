@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1da1285f.chunk.css",
+    "main.js": "/static/js/main.1e457b57.chunk.js",
+    "main.js.map": "/static/js/main.1e457b57.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.494ccf5e.chunk.js": "/static/js/2.494ccf5e.chunk.js",
+    "static/js/2.494ccf5e.chunk.js.map": "/static/js/2.494ccf5e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f6cc449e3994f940ef98127ad3255f9f.js": "/precache-manifest.f6cc449e3994f940ef98127ad3255f9f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1da1285f.chunk.css.map": "/static/css/main.1da1285f.chunk.css.map",
+    "static/media/logoweb.png": "/static/media/logoweb.cfad5cf5.png",
+    "static/media/logoweb2.png": "/static/media/logoweb2.7b19e715.png",
+    "static/media/map.jpg": "/static/media/map.2320b5f0.jpg",
+    "static/media/teenagers.jpg": "/static/media/teenagers.0df56668.jpg"
+  }
+}
