@@ -52,7 +52,7 @@ const FirstDescription = () => {
 
   useEffect(() => {
     async function fetchHeroBanner(){
-      await axios('http://fellowship.local/api/hero-banner', {
+      await axios('http://dev-teensmart-team-blue.pantheonsite.io/api/hero-banner', {
           method: 'GET',
           headers: {
             'Content-Type': 'application/json',

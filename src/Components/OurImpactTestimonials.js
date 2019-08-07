@@ -25,7 +25,7 @@ const Testimonials = () => {
 
   useEffect(() => {
     async function fetchTestimonies(){
-      await axios('http://fellowship.local/api/our-impact', {
+      await axios('http://dev-teensmart-team-blue.pantheonsite.io/api/our-impact', {
           method: 'GET',
           headers: {
             'Content-Type': 'application/json',

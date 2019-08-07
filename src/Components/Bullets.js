@@ -22,7 +22,7 @@ const Bullets = () => {
 
   useEffect(() => {
     async function fetchStatistics(){
-      await axios('http://fellowship.local/api/statistics', {
+      await axios('http://dev-teensmart-team-blue.pantheonsite.io/api/statistics', {
           method: 'GET',
           headers: {
             'Content-Type': 'application/json',

@@ -21,7 +21,7 @@ const Awards = () => {
 
   useEffect(() => {
     async function fetchAwards(){
-      await axios('http://fellowship.local/api/awards', {
+      await axios('http://dev-teensmart-team-blue.pantheonsite.io/api/awards', {
           method: 'GET',
           headers: {
             'Content-Type': 'application/json',
